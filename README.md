@@ -88,7 +88,3 @@ Key constants are at the top of `FlightSimulator.cpp`:
 - Day/night cycle with illuminated runway
 - Engine sound and wind audio
 - Multiple airports and landing scoring
-
-## License
-
-Add the license of your choice here (for example MIT).
